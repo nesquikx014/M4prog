@@ -1,0 +1,1 @@
+INSERT INTO `01 huisdierdata.sql` (`vos`, `hagendis`, `teckel`, `vis`) VALUES ('5', '3', '9', '1');
