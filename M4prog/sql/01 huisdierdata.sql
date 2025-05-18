@@ -1,5 +1,6 @@
-INSERT INTO `01 huisdierdata.sql` (`vos`, `hagendis`, `teckel`, `vis`)
-VALUES (NULL'5', '3', '9', '1');
-
-INSERT INTO  'huisdierdata' ('id', 'naam', 'eigenaar', 'typedier','leeftijd')
-VALUES(NULL'april', 'kim','schaap', '4');
+INSERT INTO `01 huisdierdata.sql` (`id`, `geboortedatum`, `dier`, `naam`) VALUES
+(1, '2011', 'rat', 'floortje'),
+(5, '2016', 'kat', 'sterre'),
+(6, '2020', 'vis', 'blub'),
+(80, '1944', 'vos', 'vosje'),
+(81, '2024', 'kip', 'mojo');
